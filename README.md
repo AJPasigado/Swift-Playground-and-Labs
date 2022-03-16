@@ -22,7 +22,9 @@ TableViews
 hexToRGB and rgbToHex
 
 ### Playground: Exercise1
-hexToRGB and rgbToHex
+* First and last digit
+* Multiply words by frequency
+* Ladder problem
 
 ### Playground: Struct-based
 Struct exercises for games
