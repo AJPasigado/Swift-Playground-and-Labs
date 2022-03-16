@@ -2,7 +2,6 @@
 CS310B Labs and Exercises
 
 <br/>
-<br/>
 
 ### Calculator
 Swift-coded Calculator
